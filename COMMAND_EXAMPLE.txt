@@ -1,0 +1,17 @@
+exports.run = (bot, message, args) => {
+
+
+};
+
+exports.conf = {
+  enabled: true,
+  guildOnly: false,
+  aliases: ['ALIAS HERE'],
+  permLevel: 4
+};
+
+exports.help = {
+  name: 'COMMAND HERE',
+  description: 'HEAL INFO HERE',
+  usage: 'USAGE HERE'
+};
